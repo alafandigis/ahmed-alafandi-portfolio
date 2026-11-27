@@ -1,2 +1,2 @@
-# ahmed-alafandi-portfolio
+# ahmedalafandi-portfolio
 Professional GIS Portfolio - Ahmed Alafandi
